@@ -1,0 +1,12 @@
+{
+    "name": "transport_management",
+    "description": "Sistem Manajemen Transportasi",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
